@@ -15,7 +15,7 @@
 | **Rhomboid Major**    | Upper thoracic vertebrae (T2–T5)     | Medial border of scapula            | ✅ Retracts scapula                                   |
 | **Rhomboid Minor**    | C7–T1 vertebrae                      | Medial border of scapula            | ✅ Retracts scapula                                   |
 | **Levator Scapulae**  | Transverse processes of C1–C4        | Superior angle of scapula           | ✅ Elevates scapula                                   |
-| **Serratus Anterior** | Outer surface of ribs 1–8 or 1–9     | Medial border of scapula (anterior side) | ✅ Protracts scapula, holds it against thoracic wall |
+| **Serratus Anterior** | Outer surface of ribs 1–8 or 1–9     | Anterior surface of vertebral border of scapula | ✅ Protracts scapula, holds it against thoracic wall |
 
 ---
 
