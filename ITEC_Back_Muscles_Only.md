@@ -15,6 +15,7 @@
 | **Rhomboid Major**    | Upper thoracic vertebrae (T2–T5)     | Medial border of scapula            | ✅ Retracts scapula                                   |
 | **Rhomboid Minor**    | C7–T1 vertebrae                      | Medial border of scapula            | ✅ Retracts scapula                                   |
 | **Levator Scapulae**  | Transverse processes of C1–C4        | Superior angle of scapula           | ✅ Elevates scapula                                   |
+| **Serratus Anterior** | Outer surface of ribs 1–8 or 1–9     | Medial border of scapula (anterior side) | ✅ Protracts scapula, holds it against thoracic wall |
 
 ---
 
@@ -24,7 +25,8 @@
 - ✅ Muscle that elevates the shoulders: **Trapezius (upper fibers)**  
 - ✅ Muscle group that extends the spine: **Erector Spinae**  
 - ✅ Muscles that retract the scapula: **Rhomboid Major & Minor**  
-- ✅ Muscle that elevates the scapula and rotates it downward: **Levator Scapulae**
+- ✅ Muscle that elevates the scapula and rotates it downward: **Levator Scapulae**  
+- ✅ Muscle that protracts scapula and stabilizes it: **Serratus Anterior**
 
 ---
 
@@ -34,14 +36,15 @@
 - **"Lats hug your back"** → Latissimus pulls arms to the body  
 - **"Erector = Elevator for spine"** → Keeps you upright  
 - **"Rhomb = Retract"** → Pulls scapula toward spine  
-- **"Levator = Lift"** → Elevates scapula (think elevator!)
+- **"Levator = Lift"** → Elevates scapula (think elevator!)  
+- **"Serratus = Saw blade = Side stabber"** → Holds scapula against ribs
 
 ---
 
 ### 🎯 FUNCTIONAL GROUPING
 
 - **Postural Muscles**: Erector Spinae  
-- **Scapular Movers**: Trapezius, Rhomboids, Levator Scapulae  
+- **Scapular Movers**: Trapezius, Rhomboids, Levator Scapulae, Serratus Anterior  
 - **Arm Movers (from back)**: Latissimus Dorsi
 
 These muscles are important for **posture**, **upper limb movement**, and **scapular control** — all high-yield topics for ITEC.
