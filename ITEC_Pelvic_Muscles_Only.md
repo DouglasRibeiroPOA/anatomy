@@ -13,7 +13,7 @@
 | **Gluteus Medius**   | Outer ilium                     | Greater trochanter of femur    | ✅ Abducts & medially rotates hip               |
 | **Gluteus Minimus**  | Below gluteus medius on ilium   | Greater trochanter of femur    | ✅ Abducts & medially rotates hip               |
 | **Piriformis**       | Anterior surface of sacrum      | Greater trochanter             | ✅ Lateral rotation of hip                      |
-| **Iliopsoas**        | Lumbar vertebrae + iliac fossa  | Lesser trochanter              | ✅ Strong hip flexion                           |
+| **Iliopsoas**        | *Psoas major* (lumbar vertebrae)<br>*Iliacus* (iliac fossa) | Lesser trochanter | ✅ Strong hip flexion                           |
 | **Tensor Fasciae Latae (TFL)** | ASIS & iliac crest     | IT band                        | ✅ Flexes, abducts, medially rotates hip        |
 
 ---
@@ -22,10 +22,12 @@
 
 - ✅ Strongest hip extensor: **Gluteus Maximus**  
 - ✅ Hip flexor and postural stabilizer: **Iliopsoas**  
+- ✅ **Iliopsoas = Psoas major + Iliacus**  
 - ✅ Lateral rotator of the hip: **Piriformis**  
 - ✅ Pelvic stabilizer during walking: **Gluteus Medius**  
 - ✅ Muscle inserting into IT band: **TFL**  
-- ✅ Muscle that may irritate the sciatic nerve: **Piriformis**
+- ✅ Muscle that may irritate the sciatic nerve: **Piriformis**  
+- ✅ Hip extension = Moving the thigh backward (e.g., glute max)
 
 ---
 
@@ -36,4 +38,4 @@
 - **Minimus = Mini medius** → Assists medius  
 - **Piriformis = Problematic** → Can pinch sciatic nerve  
 - **TFL = Trendy little flexor** → Small but important  
-- **Iliopsoas = Important for incline walking**
+- **Iliopsoas = "Ili" (ilium) + "psoas" (lumbar) = deep flexor duo**
